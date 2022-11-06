@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author niji
+ *
+ */
+module JavaProFunBUUMOOC {
+}
