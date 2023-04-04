@@ -11,6 +11,13 @@ public class Lab2_1 {
 		String value6 = "Burapha";
 		boolean value7 = true;
 
+		System.out.println(value1);
+		System.out.println(value2);
+		System.out.println(value3);
+		System.out.println(value4);
+		System.out.println(value5);
+		System.out.println(value6);
+		System.out.println(value7);
 	}
 
 }
